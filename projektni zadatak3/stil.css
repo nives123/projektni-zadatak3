@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 14px;
+	line-height: 18px;
+}
+
+h1,h2{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: brown;
+}
+body{
+	background-image:url("neutral-background-with-flat-curve-shape-ornament-free-vector.jpg");
+}
+a:link {
+	color: black;
+	background-color: darkgray;
+	padding: 6px;
+	line-height: 20px;
+	border: 1px;
+}
+a:hover{
+	background-color: white;
+	
+}
+h3{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: firebrick;
+}
